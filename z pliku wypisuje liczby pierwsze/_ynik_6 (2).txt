@@ -1,0 +1,8 @@
+Zad.3 Pary bliüniacze: 
+1721 i 1723
+1481 i 1483
+809 i 811
+Par jest: 3
+Zad.1 Tyle liczb z pliku jest pierwszych: 236
+Zad.2 Najmniejsza liczba pierwsza to: 73
+Najwieksza liczba pierwsza to: 29881

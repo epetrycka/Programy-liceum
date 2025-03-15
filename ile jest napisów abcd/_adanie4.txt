@@ -1,0 +1,21 @@
+Odpowiedzi: 
+A) Tyle napisow jest parzystej dlugosci: 504
+B) Tyle napisow ma w zapisie tyle samo zer co jedynek: 110
+C) Tyle napisow sklada sie z samych zer: 32
+Tyle napisow sklada sie z samych jedynek: 50
+D) Ilosc napisow o k dlugosci:
+k=2: 43
+k=3: 38
+k=4: 37
+k=5: 57
+k=6: 53
+k=7: 68
+k=8: 78
+k=9: 103
+k=10: 83
+k=11: 90
+k=12: 86
+k=13: 81
+k=14: 68
+k=15: 59
+k=16: 56

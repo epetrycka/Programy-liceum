@@ -1,0 +1,2 @@
+Tyle słów z pliku kończy się na 'A': 
+3
